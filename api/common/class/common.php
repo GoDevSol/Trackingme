@@ -1,6 +1,6 @@
 
 <?php
-include_once __DIR__ . './response.php';
+include_once __DIR__ . '/response.php';
 
 class Common extends Response
 {
